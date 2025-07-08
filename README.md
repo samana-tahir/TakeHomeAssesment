@@ -32,7 +32,7 @@ A simple events management platform built with Next.js, TailwindCSS, and Prisma 
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/yourname/events-platform.git
+git clone https://github.com/samana-tahir/events-platform.git
 cd events-platform
 ```
 
